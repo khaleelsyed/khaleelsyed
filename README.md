@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Khaleel 👋
+
+I am a software engineer specialising in AI-based projects and data transformation. I've got a strong background in containerised applications, backend development, and network science, I excel at bridging the gap between complex data systems and innovative software solutions. My passion lies in creating efficient and scalable architectures that drive business innovation.
+
+- 🌱 I’m currently learning Go
 
 <!--
 **khaleelsyed/khaleelsyed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
